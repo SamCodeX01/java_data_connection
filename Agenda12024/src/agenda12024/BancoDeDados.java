@@ -100,8 +100,3 @@ public class BancoDeDados {
             }
        }
 }
-
-
-// alt + shift + 
-
-//update `agenda`.`cadastro` `set nome` = 'Levi', email = 'levi@gmail.com', where (`id` = 5);
